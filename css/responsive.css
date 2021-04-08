@@ -150,7 +150,7 @@ select#select_2{
     display: none;
 }
     .item-photos .main-photo{
-    background: red;
+    background: transparent;
 }
     .zoneB{
     position: absolute;
