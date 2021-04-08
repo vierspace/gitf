@@ -146,6 +146,9 @@ select#select_2{
 }
 
 @media screen and (max-width: 767px) {
+        .mblur{
+    display: none;
+}
     .zoneB{
     position: absolute;
 }
