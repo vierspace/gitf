@@ -149,6 +149,9 @@ select#select_2{
         .mblur{
     display: none;
 }
+    .item-photos .main-photo{
+    background: transparent;
+}
     .zoneB{
     position: absolute;
 }
