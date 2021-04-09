@@ -155,6 +155,10 @@ select#select_2{
     .ctgimg{
     display: none;
 }
+    .tdesc1.tdesc5 {
+    position: absolute;
+    bottom: -45px;
+}
     .zoneB{
     position: absolute;
 }
