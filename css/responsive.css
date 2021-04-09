@@ -152,6 +152,9 @@ select#select_2{
     #itemh{
         display: inline;
     }
+    .ctgimg{
+    display: none;
+}
     .zoneB{
     position: absolute;
 }
