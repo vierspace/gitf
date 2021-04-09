@@ -159,6 +159,9 @@ select#select_2{
     position: absolute;
     bottom: -45px;
 }
+    .fancybox-prev span, .fancybox-next span{
+    display: none;
+}
     .zoneB{
     position: absolute;
 }
