@@ -259,7 +259,9 @@ body.item #main, body.user-public-profile #main {
     body {
         padding-top: 60px;
     }
-
+body.login, body.register{
+    padding-top: 0px;
+}
     .menu-icon {
         width: 40px;
         height: 40px;
