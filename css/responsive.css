@@ -149,7 +149,9 @@ select#select_2{
          .mblur{
     display: none;
 }
-
+    #itemh{
+        display: inline;
+    }
     .zoneB{
     position: absolute;
 }
