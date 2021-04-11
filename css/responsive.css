@@ -43,6 +43,13 @@ body.item-post #price {
     width: 40%;
 }
 }
+
+@media screen and (max-width: 1015px){
+body.home .homel>ul {
+    max-width: 748px;
+}
+}
+
 @media screen and (max-width: 900px) {
 button.btn.btns{
     border-left: none;
