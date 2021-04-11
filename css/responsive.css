@@ -1,4 +1,8 @@
-
+@media screen and (max-width: 1265px){
+body.home .homel>ul {
+    max-width: 995px;
+}
+}
 
 @media screen and (max-width: 1200px) {
 .fhse {
