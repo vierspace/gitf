@@ -638,6 +638,11 @@ body.login, body.register{
 }
 }
 
+@media screen and (max-width: 750px){
+body.home .homel>ul {
+    max-width: 500px;
+}
+}
 
 @media screen and (max-width: 490px) {
 
