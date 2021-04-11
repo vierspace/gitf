@@ -645,7 +645,9 @@ body.home .homel>ul {
 }
 
 @media screen and (max-width: 490px) {
-
+body.home .homel>ul {
+    max-width: 250px;
+}
     .item-post select,
     .item-post input[type="text"],
     .item-post .meta select,
