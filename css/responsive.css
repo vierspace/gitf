@@ -236,7 +236,7 @@ body.item-post #price {
     padding: 40px 20px;
 }
         body.item div#content {
-    flex-direction: column-reverse;
+   
     flex-wrap: wrap;
     padding: 0;
 }
