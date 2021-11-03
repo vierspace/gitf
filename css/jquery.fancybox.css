@@ -115,12 +115,13 @@ position: absolute;
 .fancybox-prev span, .fancybox-next span {
 	position: absolute;
 	top: 50%;
-	left: -9999px;
+	left: auto;
 	width: 36px;
 	height: 34px;
 	margin-top: -18px;
 	cursor: pointer;
 	z-index: 1003;
+	right: 20px;
 }
 
 .fancybox-prev span {
