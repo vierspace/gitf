@@ -26,3 +26,17 @@ select,
 a {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
 }
+.h_head{
+background: url(img/m4.jpg) !important;
+padding-top: 25px;
+}
+.i_head{
+max-width: 1500px;
+margin: 0 auto;
+background: #e0ddd8;
+}
+.h_head img {
+margin: 0 auto;
+display: block;
+pointer-events: none;
+}
