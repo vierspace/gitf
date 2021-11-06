@@ -40,3 +40,11 @@ margin: 0 auto;
 display: block;
 pointer-events: none;
 }
+body.login, body.register{
+background: url(img/bkg.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+body.login .heigh-m, body.register .heigh-m{
+    min-height: auto !important;
+}
