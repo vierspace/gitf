@@ -45,6 +45,6 @@ background: url(img/bkg.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
-body.login .heigh-m, body.register .heigh-m{
+body.login .heigh-m, body.register .heigh-m, body.recover .heigh-m{
     min-height: auto !important;
 }
